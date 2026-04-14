@@ -18,6 +18,7 @@ TRITON GOTO is a next-generation ONSTEP control app designed to provide a better
 </p>
 
 <p align="center">
+  Visit us:
   <a href="https://tritongoto.cn/en/">Website</a> ·
   <a href="https://tritongoto.cn/en/download">Download</a>
 </p>

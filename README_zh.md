@@ -12,6 +12,13 @@
 新一代 ONSTEP 控制 APP，为基于 **ONSTEP** 构建天文设备的爱好者提供更好的使用体验。TRITON GOTO 有着更为现代的 UI/UX 设计，更稳定的连接体验，目前已适配移动端与 Windows 平台。
 
 <p align="center">
+  语言:
+  <a href="./README_zh.md">简体中文</a> ·
+  <a href="./README.md">English</a>
+</p>
+
+<p align="center">
+  访问我们:
   <a href="https://tritongoto.cn/">网站</a> ·
   <a href="https://tritongoto.cn/download">下载</a>
 </p>
