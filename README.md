@@ -12,6 +12,11 @@ Next-generation ONSTEP Control App
 TRITON GOTO is a next-generation ONSTEP control app designed to provide a better experience for astronomy enthusiasts building devices based on **ONSTEP**. It features a more modern UI/UX design, a more stable connection experience, and currently supports both mobile and Windows platforms.
 
 <p align="center">
+  The iOS app beta is now live on TestFlight:
+  <a href="https://testflight.apple.com/join/413YM5Hy">Join Now</a>
+</p>
+
+<p align="center">
   Languages:
   <a href="./README_zh.md">简体中文</a> ·
   <a href="./README.md">English</a>
@@ -23,10 +28,13 @@ TRITON GOTO is a next-generation ONSTEP control app designed to provide a better
   <a href="https://tritongoto.cn/en/download">Download</a>
 </p>
 
-<p align="center">
-  The iOS app beta is now live on TestFlight:
-  <a href="https://testflight.apple.com/join/413YM5Hy">Join Now</a>
-</p>
+---
+
+# TRITON GOTO - ONSTEP Mobile App
+
+No need to juggle multiple apps. In one place, you can sync time and location, perform GOTO directly from the star map, run visual polar alignment, and complete three-star alignment - making ONSTEP simpler to use.
+
+![TRITON GOTO](./src/assets/image/app-ios.jpg)
 
 ---
 

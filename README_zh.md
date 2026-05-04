@@ -12,6 +12,12 @@
 新一代 ONSTEP 控制 APP，为基于 **ONSTEP** 构建天文设备的爱好者提供更好的使用体验。TRITON GOTO 有着更为现代的 UI/UX 设计，更稳定的连接体验，目前已适配移动端与 Windows 平台。
 
 <p align="center">
+  iOS App 现已开放 TestFlight 内测：
+  <a href="https://testflight.apple.com/join/413YM5Hy">立即加入</a>
+</p>
+
+
+<p align="center">
   语言:
   <a href="./README_zh.md">简体中文</a> ·
   <a href="./README.md">English</a>
@@ -23,10 +29,13 @@
   <a href="https://tritongoto.cn/download">下载</a>
 </p>
 
-<p align="center">
-  iOS App 现已开放 TestFlight 内测：
-  <a href="https://testflight.apple.com/join/413YM5Hy">立即加入</a>
-</p>
+---
+
+# TRITON GOTO - ONSTEP 移动端 APP
+
+不再依赖多个 App，一键完成时间/位置同步、在星图中 GOTO 天体、可视化极轴校准与三星校准，让使用 ONSTEP 变得更为简单。
+
+![TRITON GOTO](./src/assets/image/app-ios.jpg)
 
 ---
 
