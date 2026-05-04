@@ -1,16 +1,32 @@
-#   
-TRITON GOTO   
+<h1 align="center">
+  <img src="./src/assets/image/logo.svg" alt="TRITON GOTO" width="128" />
+  <br>
+  TRITON GOTO
+  <br>
+</h1>
 
-
-### 新一代 ONSTEP 控制 APP
+<h3 align="center">
+新一代 ONSTEP 控制 APP
+</h3>
 
 新一代 ONSTEP 控制 APP，为基于 **ONSTEP** 构建天文设备的爱好者提供更好的使用体验。TRITON GOTO 有着更为现代的 UI/UX 设计，更稳定的连接体验，目前已适配移动端与 Windows 平台。
 
-iOS App 现已开放内测：[TestFlight](https://testflight.apple.com/join/413YM5Hy)
+<p align="center">
+  语言:
+  <a href="./README_zh.md">简体中文</a> ·
+  <a href="./README.md">English</a>
+</p>
 
-语言: [简体中文](./README_zh.md) · [English](./README.md)
+<p align="center">
+  访问我们:
+  <a href="https://tritongoto.cn/">网站</a> ·
+  <a href="https://tritongoto.cn/download">下载</a>
+</p>
 
-访问我们: [网站](https://tritongoto.cn/) · [下载](https://tritongoto.cn/download)
+<p align="center">
+  iOS App 现已开放 TestFlight 内测：
+  <a href="https://testflight.apple.com/join/413YM5Hy">立即加入</a>
+</p>
 
 ---
 
@@ -20,7 +36,7 @@ iOS App 现已开放内测：[TestFlight](https://testflight.apple.com/join/413Y
 
 **TRITON GOTO** 有着更为现代的 UI/UX 设计，更稳定的连接体验，以及更丰富的功能，完全兼容 **ONSTEP** 与 **ONSTEP X** 版本。
 
-TRITON GOTO
+![TRITON GOTO](./src/assets/image/app-windows-starmap-page.jpg)
 
 ## 内置星图引擎
 
@@ -34,22 +50,25 @@ TRITON GOTO
 
 显示望远镜常规信息，包括当前指向的赤道坐标与地平坐标，用户可快速查看设备当前状态。
 
-TRITON GOTO
+![TRITON GOTO](./src/assets/image/app-windows-link-page.jpg)
 
 ## 设置页面
 
 用于设置设备所在的地理位置相关信息，以及设备的限位、中天翻转、GOTO 速度等，支持通过网络获取地理位置。
 
-TRITON GOTO
+![TRITON GOTO](./src/assets/image/app-windows-settings-page.jpg)
 
 ## 控制页面
 
 用于控制设备的状态，如启动/停止跟踪，设置跟踪速率，以及设备零位/停放位的相关控制与设置。
 
-TRITON GOTO
+![TRITON GOTO](./src/assets/image/app-windows-control-page.jpg)
 
 ## 高级配置页面
 
 用于 DIY 用户手动配置设备的传动参数，如修改设备对应轴的每度脉冲，电机驱动的细分，驱动电流以及电机的转向等参数。
 
-TRITON GOTO
+![TRITON GOTO](./src/assets/image/app-windows-config-page.jpg)
+
+
+
